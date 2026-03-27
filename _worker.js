@@ -766,6 +766,7 @@ function generateHomePage(scuValue) {
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>服务器优选工具</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%23007AFF%27/%3E%3Ccircle cx=%2732%27 cy=%2736%27 r=%274%27 fill=%27white%27/%3E%3Cpath d=%27M20 24a17 17 0 0 1 24 0%27 fill=%27none%27 stroke=%27white%27 stroke-width=%273%27 stroke-linecap=%27round%27/%3E%3Cpath d=%27M14 18a25 25 0 0 1 36 0%27 fill=%27none%27 stroke=%27white%27 stroke-width=%273%27 stroke-linecap=%27round%27/%3E%3Cpath d=%27M26 30a8 8 0 0 1 12 0%27 fill=%27none%27 stroke=%27white%27 stroke-width=%272.5%27 stroke-linecap=%27round%27/%3E%3Crect x=%2730%27 y=%2740%27 width=%274%27 height=%2710%27 rx=%272%27 fill=%27white%27/%3E%3C/svg%3E">
     <style>
         * {
             margin: 0;
