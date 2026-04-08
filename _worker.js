@@ -1207,7 +1207,7 @@ function generateHomePage(scuValue) {
 <body>
     <div class="container">
         <div class="header">
-            <h1>服务器优选工具</h1>
+            <h1><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23F6821F'/%3E%3Cpath d='M48 30c0-6.6-5.4-12-12-12c-1.2 0-2.3.2-3.4.5C30.8 14.5 26.7 12 22 12c-7.7 0-14 6.3-14 14c0 .5 0 1 .1 1.5C5.1 29.4 3 32.5 3 36c0 4.4 3.6 8 8 8h38c4.4 0 8-3.6 8-8c0-4-3-7.3-6.8-7.9c-.7-.1-1.4-.1-2.2-.1z' fill='white' opacity='.95'/%3E%3Cpolygon points='33,22 26,35 31,35 28,44 39,30 34,30 37,22' fill='%23F6821F'/%3E%3C/svg%3E" alt="CF" style="width:32px;height:32px;vertical-align:middle;margin-right:8px;">服务器优选工具</h1>
             <p>智能优选 • 一键生成</p>
         </div>
         
