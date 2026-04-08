@@ -766,7 +766,7 @@ function generateHomePage(scuValue) {
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>服务器优选工具</title>
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Crect width=%2764%27 height=%2764%27 rx=%2714%27 fill=%27%23007AFF%27/%3E%3Cpolygon points=%2736,10 22,32 30,32 26,54 42,30 34,30%27 fill=%27white%27/%3E%3Cline x1=%2710%27 y1=%2748%27 x2=%2716%27 y2=%2748%27 stroke=%27white%27 stroke-width=%272.5%27 stroke-linecap=%27round%27 opacity=%270.7%27/%3E%3Cline x1=%2710%27 y1=%2742%27 x2=%2714%27 y2=%2742%27 stroke=%27white%27 stroke-width=%272.5%27 stroke-linecap=%27round%27 opacity=%270.5%27/%3E%3Cline x1=%2710%27 y1=%2736%27 x2=%2712%27 y2=%2736%27 stroke=%27white%27 stroke-width=%272.5%27 stroke-linecap=%27round%27 opacity=%270.3%27/%3E%3C/svg%3E">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2064%2064%27%3E%3Crect%20width%3D%2764%27%20height%3D%2764%27%20rx%3D%2714%27%20fill%3D%27%23F6821F%27/%3E%3Cpath%20d%3D%27M48%2030c0-6.6-5.4-12-12-12c-1.2%200-2.3.2-3.4.5C30.8%2014.5%2026.7%2012%2022%2012c-7.7%200-14%206.3-14%2014c0%20.5%200%201%20.1%201.5C5.1%2029.4%203%2032.5%203%2036c0%204.4%203.6%208%208%208h38c4.4%200%208-3.6%208-8c0-4-3-7.3-6.8-7.9c-.7-.1-1.4-.1-2.2-.1z%27%20fill%3D%27white%27%20opacity%3D%27.95%27/%3E%3Cpolygon%20points%3D%2733%2C22%2026%2C35%2031%2C35%2028%2C44%2039%2C30%2034%2C30%2037%2C22%27%20fill%3D%27%23F6821F%27/%3E%3C/svg%3E">
     <style>
         * {
             margin: 0;
